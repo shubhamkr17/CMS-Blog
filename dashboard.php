@@ -22,7 +22,7 @@
                     <li> <a href="dashboard.php">
                     <span class="glyphicon glyphicon-list-alt"></span>&nbsp; Add New Post</a> </li>
 
-                    <li> <a href="dashboard.php">
+                    <li> <a href="categories.php">
                     <span class="glyphicon glyphicon-tags"></span>&nbsp; Categories</a> </li>
 
                     <li> <a href="dashboard.php">
